@@ -1,5 +1,5 @@
-var name = "thamaraiselvi";
-var name = "elangovan";
+var name = "thamaraielangovan";
+var name = "thamaraielangovan";
 
 console.log(name);
 
